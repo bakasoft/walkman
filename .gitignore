@@ -1,0 +1,6 @@
+/env/
+/dist/
+/build/
+/walkman.egg-info/
+
+__pycache__

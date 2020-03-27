@@ -1,0 +1,9 @@
+# Audit
+flake8
+
+# Build
+setuptools
+wheel
+
+# Deployment
+twine
